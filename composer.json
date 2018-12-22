@@ -1,0 +1,12 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Dta\\Firstmvc_composer\\" : "src"
+		}
+	},
+	"name" : "dta/firstmvc_composer",
+	"require" : {
+		"php" : ">=7.0",
+		"phpunit/phpunit" : "6.5.13"
+	}
+}
