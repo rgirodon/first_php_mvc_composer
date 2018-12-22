@@ -1,0 +1,13 @@
+/AnyInvokedCount.php
+/AnyParameters.php
+/ConsecutiveParameters.php
+/Invocation.php
+/InvokedAtIndex.php
+/InvokedAtLeastCount.php
+/InvokedAtLeastOnce.php
+/InvokedAtMostCount.php
+/InvokedCount.php
+/InvokedRecorder.php
+/MethodName.php
+/Parameters.php
+/StatelessInvocation.php

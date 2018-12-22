@@ -1,0 +1,14 @@
+/ArrayComparatorTest.php
+/ComparisonFailureTest.php
+/DOMNodeComparatorTest.php
+/DateTimeComparatorTest.php
+/DoubleComparatorTest.php
+/ExceptionComparatorTest.php
+/FactoryTest.php
+/MockObjectComparatorTest.php
+/NumericComparatorTest.php
+/ObjectComparatorTest.php
+/ResourceComparatorTest.php
+/ScalarComparatorTest.php
+/SplObjectStorageComparatorTest.php
+/TypeComparatorTest.php

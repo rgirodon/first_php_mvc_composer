@@ -1,0 +1,13 @@
+/AbstractClassAsset.php
+/ArrayObjectAsset.php
+/ExceptionAsset.php
+/FinalExceptionAsset.php
+/PharAsset.php
+/PharExceptionAsset.php
+/SerializableArrayObjectAsset.php
+/SimpleSerializableAsset.php
+/SimpleTraitAsset.php
+/UnCloneableAsset.php
+/UnserializeExceptionArrayObjectAsset.php
+/WakeUpNoticesAsset.php
+/XMLReaderAsset.php

@@ -1,0 +1,15 @@
+/ArrayComparator.php
+/Comparator.php
+/ComparisonFailure.php
+/DOMNodeComparator.php
+/DateTimeComparator.php
+/DoubleComparator.php
+/ExceptionComparator.php
+/Factory.php
+/MockObjectComparator.php
+/NumericComparator.php
+/ObjectComparator.php
+/ResourceComparator.php
+/ScalarComparator.php
+/SplObjectStorageComparator.php
+/TypeComparator.php

@@ -1,0 +1,6 @@
+/CoveredCodeNotExecutedException.php
+/Exception.php
+/InvalidArgumentException.php
+/MissingCoversAnnotationException.php
+/RuntimeException.php
+/UnintentionallyCoveredCodeException.php

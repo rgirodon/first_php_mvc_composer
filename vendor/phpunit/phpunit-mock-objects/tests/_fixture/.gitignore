@@ -1,0 +1,26 @@
+/AbstractMockTestClass.php
+/AbstractTrait.php
+/AnInterface.php
+/AnInterfaceWithReturnType.php
+/AnotherInterface.php
+/Bar.php
+/ClassThatImplementsSerializable.php
+/ClassWithAllPossibleReturnTypes.php
+/ClassWithSelfTypeHint.php
+/ClassWithStaticMethod.php
+/Foo.php
+/FunctionCallback.php
+/Go ogle-Sea.rch.wsdl
+/GoogleSearch.wsdl
+/InterfaceWithSemiReservedMethodName.php
+/InterfaceWithStaticMethod.php
+/MethodCallback.php
+/MethodCallbackByReference.php
+/MockTestInterface.php
+/Mockable.php
+/PartialMockTestClass.php
+/SingletonClass.php
+/SomeClass.php
+/StaticMockTestClass.php
+/StringableClass.php
+/TraversableMockTestInterface.php

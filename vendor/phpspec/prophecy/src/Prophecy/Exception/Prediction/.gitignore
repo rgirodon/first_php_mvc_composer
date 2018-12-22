@@ -1,0 +1,6 @@
+/AggregateException.php
+/FailedPredictionException.php
+/NoCallsException.php
+/PredictionException.php
+/UnexpectedCallsCountException.php
+/UnexpectedCallsException.php

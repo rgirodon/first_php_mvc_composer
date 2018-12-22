@@ -1,0 +1,8 @@
+/Exception.php
+/NamespaceUri.php
+/NamespaceUriException.php
+/Token.php
+/TokenCollection.php
+/TokenCollectionException.php
+/Tokenizer.php
+/XMLSerializer.php

@@ -1,0 +1,13 @@
+/deprecation.tpl.dist
+/mocked_class.tpl.dist
+/mocked_class_method.tpl.dist
+/mocked_clone.tpl.dist
+/mocked_method.tpl.dist
+/mocked_method_void.tpl.dist
+/mocked_static_method.tpl.dist
+/proxied_method.tpl.dist
+/proxied_method_void.tpl.dist
+/trait_class.tpl.dist
+/unmocked_clone.tpl.dist
+/wsdl_class.tpl.dist
+/wsdl_method.tpl.dist

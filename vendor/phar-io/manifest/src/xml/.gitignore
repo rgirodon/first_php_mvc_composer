@@ -1,0 +1,17 @@
+/AuthorElement.php
+/AuthorElementCollection.php
+/BundlesElement.php
+/ComponentElement.php
+/ComponentElementCollection.php
+/ContainsElement.php
+/CopyrightElement.php
+/ElementCollection.php
+/ExtElement.php
+/ExtElementCollection.php
+/ExtensionElement.php
+/LicenseElement.php
+/ManifestDocument.php
+/ManifestDocumentLoadingException.php
+/ManifestElement.php
+/PhpElement.php
+/RequiresElement.php

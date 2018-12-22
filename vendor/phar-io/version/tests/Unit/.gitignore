@@ -1,0 +1,9 @@
+/AbstractVersionConstraintTest.php
+/AndVersionConstraintGroupTest.php
+/AnyVersionConstraintTest.php
+/ExactVersionConstraintTest.php
+/GreaterThanOrEqualToVersionConstraintTest.php
+/OrVersionConstraintGroupTest.php
+/SpecificMajorAndMinorVersionConstraintTest.php
+/SpecificMajorVersionConstraintTest.php
+/VersionTest.php

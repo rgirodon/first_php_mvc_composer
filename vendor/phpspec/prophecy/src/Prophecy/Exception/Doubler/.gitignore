@@ -1,0 +1,9 @@
+/ClassCreatorException.php
+/ClassMirrorException.php
+/ClassNotFoundException.php
+/DoubleException.php
+/DoublerException.php
+/InterfaceNotFoundException.php
+/MethodNotExtendableException.php
+/MethodNotFoundException.php
+/ReturnByReferenceException.php

@@ -1,0 +1,16 @@
+/ApplicationNameTest.php
+/ApplicationTest.php
+/AuthorCollectionTest.php
+/AuthorTest.php
+/BundledComponentCollectionTest.php
+/BundledComponentTest.php
+/CopyrightInformationTest.php
+/EmailTest.php
+/ExtensionTest.php
+/LibraryTest.php
+/LicenseTest.php
+/ManifestTest.php
+/PhpExtensionRequirementTest.php
+/PhpVersionRequirementTest.php
+/RequirementCollectionTest.php
+/UrlTest.php

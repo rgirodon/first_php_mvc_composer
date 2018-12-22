@@ -1,0 +1,6 @@
+/SeparateClassPreserveTest.php
+/SeparateFunctionNoPreserveTest.php
+/SeparateFunctionPreserveTest.php
+/bootstrapNoBootstrap.php
+/bootstrapWithBootstrap.php
+/bootstrapWithBootstrapNoGlobal.php

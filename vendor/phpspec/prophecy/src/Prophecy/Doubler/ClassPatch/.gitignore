@@ -1,0 +1,10 @@
+/ClassPatchInterface.php
+/DisableConstructorPatch.php
+/HhvmExceptionPatch.php
+/KeywordPatch.php
+/MagicCallPatch.php
+/ProphecySubjectPatch.php
+/ReflectionClassNewInstancePatch.php
+/SplFileInfoPatch.php
+/ThrowablePatch.php
+/TraversablePatch.php

@@ -1,0 +1,17 @@
+/AbstractVersionConstraint.php
+/AndVersionConstraintGroup.php
+/AnyVersionConstraint.php
+/ExactVersionConstraint.php
+/Exception.php
+/GreaterThanOrEqualToVersionConstraint.php
+/InvalidVersionException.php
+/OrVersionConstraintGroup.php
+/PreReleaseSuffix.php
+/SpecificMajorAndMinorVersionConstraint.php
+/SpecificMajorVersionConstraint.php
+/UnsupportedVersionConstraintException.php
+/Version.php
+/VersionConstraint.php
+/VersionConstraintParser.php
+/VersionConstraintValue.php
+/VersionNumber.php

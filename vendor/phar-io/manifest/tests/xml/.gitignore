@@ -1,0 +1,14 @@
+/AuthorElementCollectionTest.php
+/AuthorElementTest.php
+/BundlesElementTest.php
+/ComponentElementCollectionTest.php
+/ComponentElementTest.php
+/ContainsElementTest.php
+/CopyrightElementTest.php
+/ExtElementCollectionTest.php
+/ExtElementTest.php
+/ExtensionElementTest.php
+/LicenseElementTest.php
+/ManifestDocumentTest.php
+/PhpElementTest.php
+/RequiresElementTest.php
